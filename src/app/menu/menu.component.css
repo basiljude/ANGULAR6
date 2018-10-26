@@ -1,0 +1,23 @@
+.menu{
+list-style:none
+
+
+}
+.menu li{
+
+
+ float: left;
+background-color: cadetblue;
+
+cursor: pointer;
+
+padding: 20px;
+
+color:black;
+
+
+} 
+.menu li:hover{
+
+    background-color: dimgrey;
+}
